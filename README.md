@@ -36,6 +36,9 @@ A aplicação demonstra conceitos fundamentais de JavaScript, HTML e CSS, como m
 
 ---
 
+
+
 ### Instalação e Execução
 
 Para rodar o projeto, basta abrir o arquivo `index.html` em qualquer navegador web. Nenhuma configuração adicional é necessária.
+ou acesse: https://challenge-amigo-secreto-one-rose.vercel.app/
